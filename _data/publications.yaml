@@ -4,6 +4,8 @@ papers:
     venue: "Under Review"
     year: "2026"
     thumbnail : "/assets/publications/costnav_ur/costnav_thumbnail.png"
+    arxiv: "https://arxiv.org/abs/2511.20216"
+    code: "https://github.com/worv-ai/CostNav"
 
   - title: "[P3][W6] Is a Picture Worth Thousands of Words? Adaptive Agentic Multimodal Fact-Checking with Visual Evidence Necessity"
     authors: "<b><u>Jaeyoon Jung</u></b>, Yejun Yoon, Kunwoo Park"
