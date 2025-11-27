@@ -105,13 +105,54 @@ title: Home
 <!-- ========== Awards ========== -->
 <div class="docs-section" id="awards">
   <h4>Awards</h4>
-  {% for award in site.data.award.awards %}
-    <div class="paper">
-      <p class="title">
-        <b>{{ award.place }}</b>, {{ award.title }} <b style="float:right;">{{ award.time }}</b>
-      </p>
+
+  <ul class="tab-nav">
+    <li><div class="button active" data-ref="#awards-selected">Selected</div></li>
+    <li><div class="button" data-ref="#awards-all">All</div></li>
+  </ul>
+
+  <div class="tab-content">
+    <div class="tab-pane active" id="awards-selected">
+      {% assign selected_awards = site.data.award.awards | where: "selected", "y" %}
+      {% for award in selected_awards %}
+        <div class="paper">
+          <p class="title">
+            <b>{{ award.place }}</b>, {{ award.title }} <b style="float:right;">{{ award.time }}</b>
+          </p>
+          {% if award.subtitle or award.code %}
+            <p style="font-size: 0.9em; color: rgba(0, 0, 0, 0.7);">
+              {% if award.subtitle %}{{ award.subtitle }}{% endif %}
+              {% if award.code %}
+                <span style="float:right;">
+                  <a class="button" href="{{ award.code }}" target="_blank" style="margin: 0; padding: 0 15px; height: 20px; line-height: 20px; font-size: 0.9em;">Code</a>
+                </span>
+              {% endif %}
+            </p>
+          {% endif %}
+        </div>
+      {% endfor %}
     </div>
-  {% endfor %}
+
+    <div class="tab-pane" id="awards-all">
+      {% for award in site.data.award.awards %}
+        <div class="paper">
+          <p class="title">
+            <b>{{ award.place }}</b>, {{ award.title }} <b style="float:right;">{{ award.time }}</b>
+          </p>
+          {% if award.subtitle or award.code %}
+            <p style="font-size: 0.9em; color: rgba(0, 0, 0, 0.7);">
+              {% if award.subtitle %}{{ award.subtitle }}{% endif %}
+              {% if award.code %}
+                <span style="float:right;">
+                  <a class="button" href="{{ award.code }}" target="_blank" style="margin: 0; padding: 0 15px; height: 20px; line-height: 20px; font-size: 0.9em;">Code</a>
+                </span>
+              {% endif %}
+            </p>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
 </div>
 
 <!-- ========== RESUME ========== -->
