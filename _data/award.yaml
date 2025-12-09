@@ -1,4 +1,12 @@
 awards:
+  - place: "AVerImaTeC shared task hosted by the ninth FEVER workshop at EACL 2026"
+    time: "December 2025"
+    title: "1st Place"
+    subtitle: "Built multimodal fact-checking pipeline with agentic multimodal models"
+    category: "challenge"
+    selected: "y"
+    code: "https://github.com/ssu-humane/VILLAIN"
+
   - place: "PokéAgent Challenge at NeurIPS 2025"
     time: "November 2025"
     title: "5th Place, Judge's Choice Award"
