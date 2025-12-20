@@ -1,8 +1,15 @@
 papers:
+  - title: "[P5] VILLAIN at AVerImaTeC: Verifying Image–Text Claims via Multi-Agent Collaboration"
+    authors: "<b><u>Jaeyoon Jung*</u></b>, Yejun Yoon*, Seunghyun Yoon, Kunwoo Park"
+    venue: "Under Review"
+    thumbnail : "/assets/publications/villain_ur/villain_thumbnail.jpg"
+    year: "2026"
+    code: "https://github.com/ssu-humane/VILLAIN"
+
+
   - title: "[P4] CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents"
     authors: "Haebin Seong, Sungmin Kim, Minchan Kim, Yongjun Cho, Myunchul Joe, Suhwan Choi, <b><u>Jaeyoon Jung</u></b>, Jiyong Youn, Yoonshik Kim, Samwoo Seong, Yubeen Park, Youngjae Yu, Yunsung Lee"
     venue: "Under Review"
-    year: "2026"
     thumbnail : "/assets/publications/costnav_ur/costnav_thumbnail.png"
     arxiv: "https://arxiv.org/abs/2511.20216"
     code: "https://github.com/worv-ai/CostNav"
