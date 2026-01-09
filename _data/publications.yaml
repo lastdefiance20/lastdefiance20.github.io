@@ -11,10 +11,11 @@ papers:
     authors: "Haebin Seong, Sungmin Kim, Minchan Kim, Yongjun Cho, Myunchul Joe, Suhwan Choi, <b><u>Jaeyoon Jung</u></b>, Jiyong Youn, Yoonshik Kim, Samwoo Seong, Yubeen Park, Youngjae Yu, Yunsung Lee"
     venue: "Under Review"
     thumbnail : "/assets/publications/costnav_ur/costnav_thumbnail.png"
+    website: "https://worv-ai.github.io/costnav/"
     arxiv: "https://arxiv.org/abs/2511.20216"
     code: "https://github.com/worv-ai/CostNav"
 
-  - title: "[P3][W6] Is a Picture Worth Thousands of Words? Adaptive Agentic Multimodal Fact-Checking with Visual Evidence Necessity"
+  - title: "[P3][W6] Is a Picture Worth a Thousand Words? Agentic Multimodal Fact-Checking for Adaptive Use of Visual Evidence"
     authors: "<b><u>Jaeyoon Jung</u></b>, Yejun Yoon, Kunwoo Park"
     venue: "Under Review"
     venue2: "Workshop on Human-Centric AI at CIKM, 2025"
