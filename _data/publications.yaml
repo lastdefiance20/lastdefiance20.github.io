@@ -3,7 +3,6 @@ papers:
     authors: "<b><u>Jaeyoon Jung*</u></b>, Yejun Yoon*, Seunghyun Yoon, Kunwoo Park"
     venue: "Under Review"
     thumbnail : "/assets/publications/villain_ur/villain_thumbnail.jpg"
-    year: "2026"
     code: "https://github.com/ssu-humane/VILLAIN"
 
 
@@ -33,6 +32,7 @@ papers:
     authors: "Youngwon Choi, <b><u>Jaeyoon Jung</u></b>, Hyeonyu Kim, Huu-Kim Nguyen, Hwayeon Kim"
     venue: "IEEE/CVF International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026"
     arxiv: "https://arxiv.org/abs/2509.15389"
+    year: "2026"
     thumbnail : "/assets/publications/finetuning_icassp2026/finetuning_thumbnail.png"
 
   - title: "[W5] Team HUMANE at AVeriTeC 2025: HerO 2 for Efficient Fact Verification"
