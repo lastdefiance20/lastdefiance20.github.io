@@ -1,5 +1,5 @@
 papers:
-  - title: "[P5] VILLAIN at AVerImaTeC: Verifying Image–Text Claims via Multi-Agent Collaboration"
+  - title: "[P4] VILLAIN at AVerImaTeC: Verifying Image-Text Claims via Multi-Agent Collaboration"
     authors: "<b><u>Jaeyoon Jung*</u></b>, Yejun Yoon*, Seunghyun Yoon, Kunwoo Park"
     venue: "Under Review"
     thumbnail : "/assets/publications/villain_ur/villain_thumbnail.jpg"
@@ -7,7 +7,7 @@ papers:
     code: "https://github.com/ssu-humane/VILLAIN"
 
 
-  - title: "[P4] CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents"
+  - title: "[P3] CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents"
     authors: "Haebin Seong, Sungmin Kim, Minchan Kim, Yongjun Cho, Myunchul Joe, Suhwan Choi, <b><u>Jaeyoon Jung</u></b>, Jiyong Youn, Yoonshik Kim, Samwoo Seong, Yubeen Park, Youngjae Yu, Yunsung Lee"
     venue: "Under Review"
     thumbnail : "/assets/publications/costnav_ur/costnav_thumbnail.png"
@@ -15,13 +15,13 @@ papers:
     arxiv: "https://arxiv.org/abs/2511.20216"
     code: "https://github.com/worv-ai/CostNav"
 
-  - title: "[P3][W6] Is a Picture Worth a Thousand Words? Agentic Multimodal Fact-Checking for Adaptive Use of Visual Evidence"
+  - title: "[P2][W6] Is a Picture Worth a Thousand Words? Agentic Multimodal Fact-Checking for Adaptive Use of Visual Evidence"
     authors: "<b><u>Jaeyoon Jung</u></b>, Yejun Yoon, Kunwoo Park"
     venue: "Under Review"
     venue2: "Workshop on Human-Centric AI at CIKM, 2025"
     thumbnail : "/assets/publications/amufc_ur/amufc_thumbnail.jpg"
 
-  - title: "[P2] Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI"
+  - title: "[P1] Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI"
     authors: "Suhwan Choi*, <b><u>Jaeyoon Jung*</u></b>, Haebin Seong*, Minchan Kim, Minyeong Kim, Yongjun Cho, Yoonshik Kim, Park Yu Been, Youngjae Yu, and Yunsung Lee"
     venue: "Under Review"
     website: "https://worv-ai.github.io/d2e/"
@@ -29,11 +29,11 @@ papers:
     code: "https://github.com/worv-ai/D2E"
     thumbnail : "/assets/publications/d2e_ur/d2e_thumbnail.png"
 
-  - title: "[P1] Exploring Fine-Tuning of Large Audio Language Models for Spoken Language Understanding under Limited Speech Data"
+  - title: "[C4] Exploring Fine-Tuning of Large Audio Language Models for Spoken Language Understanding under Limited Speech Data"
     authors: "Youngwon Choi, <b><u>Jaeyoon Jung</u></b>, Hyeonyu Kim, Huu-Kim Nguyen, Hwayeon Kim"
-    venue: "Under Review"
+    venue: "IEEE/CVF International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026"
     arxiv: "https://arxiv.org/abs/2509.15389"
-    thumbnail : "/assets/publications/finetuning_ur/finetuning_thumbnail.png"
+    thumbnail : "/assets/publications/finetuning_icassp2026/finetuning_thumbnail.png"
 
   - title: "[W5] Team HUMANE at AVeriTeC 2025: HerO 2 for Efficient Fact Verification"
     authors: "Yejun Yoon, <b><u>Jaeyoon Jung</u></b>, Seunghyun Yoon, Kunwoo Park"
