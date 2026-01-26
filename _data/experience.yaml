@@ -1,16 +1,16 @@
 experiences:
 
-- place: "HUMANE LAB @ SSU AI"
-  time: "June 2024 - now"
-  title: "Research Student (Advised by Prof. <a href='https://bywords.github.io/'>Kunwoo Park</a>)"
-  subtitle: "Work for building automated fact-checking for both using only text and multi-modal"
-  category: "school"
-
 - place: "MAUM.AI"
   time: "Dec. 2024 - now"
   title: "Senior AI Research Scientist"
   subtitle: "Working on <a href='https://recruitment.worv.maum.ai'>WoRV</a> team to build a End-to-End Vision-Language Action model to drive or act like human.<br>Collaborating with <a href='https://pi.snu.ac.kr/'>SNU PI Lab</a>, led by Prof. <a href='https://yj-yu.github.io/home/'>Youngjae Yu</a>."
   category: "work"
+
+- place: "HUMANE LAB @ SSU AI"
+  time: "June 2024 - now"
+  title: "Research Student (Advised by Prof. <a href='https://bywords.github.io/'>Kunwoo Park</a>)"
+  subtitle: "Work for building automated fact-checking for both using only text and multi-modal"
+  category: "school"
 
 - place: "MAUM.AI"
   time: "Apr. 2023 - Nov. 2024"

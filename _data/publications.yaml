@@ -1,14 +1,8 @@
 papers:
-  - title: "[P4] VILLAIN at AVerImaTeC: Verifying Image-Text Claims via Multi-Agent Collaboration"
-    authors: "<b><u>Jaeyoon Jung*</u></b>, Yejun Yoon*, Seunghyun Yoon, Kunwoo Park"
-    venue: "Under Review"
-    thumbnail : "/assets/publications/villain_ur/villain_thumbnail.jpg"
-    code: "https://github.com/ssu-humane/VILLAIN"
-
-
   - title: "[P3] CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents"
     authors: "Haebin Seong, Sungmin Kim, Minchan Kim, Yongjun Cho, Myunchul Joe, Suhwan Choi, <b><u>Jaeyoon Jung</u></b>, Jiyong Youn, Yoonshik Kim, Samwoo Seong, Yubeen Park, Youngjae Yu, Yunsung Lee"
     venue: "Under Review"
+    year: "Preprint"
     thumbnail : "/assets/publications/costnav_ur/costnav_thumbnail.png"
     website: "https://worv-ai.github.io/costnav/"
     arxiv: "https://arxiv.org/abs/2511.20216"
@@ -27,12 +21,18 @@ papers:
     arxiv: "https://arxiv.org/abs/2510.05684"
     code: "https://github.com/worv-ai/D2E"
     thumbnail : "/assets/publications/d2e_ur/d2e_thumbnail.png"
+  
+  - title: "[W6] VILLAIN at AVerImaTeC: Verifying Image-Text Claims via Multi-Agent Collaboration"
+    authors: "<b><u>Jaeyoon Jung*</u></b>, Yejun Yoon*, Seunghyun Yoon, Kunwoo Park"
+    venue: "Nineth Workshop on Fact Extraction and VERification (FEVER) at EACL, 2026, <b><span style='color:red;'>(Oral)</span></b>"
+    year: "2026"
+    thumbnail : "/assets/publications/villain_fever2026/villain_thumbnail.jpg"
+    code: "https://github.com/ssu-humane/VILLAIN"
 
   - title: "[C4] Exploring Fine-Tuning of Large Audio Language Models for Spoken Language Understanding under Limited Speech Data"
     authors: "Youngwon Choi, <b><u>Jaeyoon Jung</u></b>, Hyeonyu Kim, Huu-Kim Nguyen, Hwayeon Kim"
     venue: "IEEE/CVF International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026"
     arxiv: "https://arxiv.org/abs/2509.15389"
-    year: "2026"
     thumbnail : "/assets/publications/finetuning_icassp2026/finetuning_thumbnail.png"
 
   - title: "[W5] Team HUMANE at AVeriTeC 2025: HerO 2 for Efficient Fact Verification"
