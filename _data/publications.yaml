@@ -1,5 +1,5 @@
 papers:
-  - title: "[P3] CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents"
+  - title: "[P2] CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents"
     authors: "Haebin Seong, Sungmin Kim, Minchan Kim, Yongjun Cho, Myunchul Joe, Suhwan Choi, <b><u>Jaeyoon Jung</u></b>, Jiyong Youn, Yoonshik Kim, Samwoo Seong, Yubeen Park, Youngjae Yu, Yunsung Lee"
     venue: "Under Review"
     year: "Preprint"
@@ -8,24 +8,24 @@ papers:
     arxiv: "https://arxiv.org/abs/2511.20216"
     code: "https://github.com/worv-ai/CostNav"
 
-  - title: "[P2][W6] Is a Picture Worth a Thousand Words? Agentic Multimodal Fact-Checking for Adaptive Use of Visual Evidence"
+  - title: "[P1][W6] Is a Picture Worth a Thousand Words? Agentic Multimodal Fact-Checking for Adaptive Use of Visual Evidence"
     authors: "<b><u>Jaeyoon Jung</u></b>, Yejun Yoon, Kunwoo Park"
     venue: "Under Review"
     venue2: "Workshop on Human-Centric AI at CIKM, 2025"
     thumbnail : "/assets/publications/amufc_ur/amufc_thumbnail.jpg"
 
-  - title: "[P1] Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI"
+  - title: "[C5] Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI"
     authors: "Suhwan Choi*, <b><u>Jaeyoon Jung*</u></b>, Haebin Seong*, Minchan Kim, Minyeong Kim, Yongjun Cho, Yoonshik Kim, Park Yu Been, Youngjae Yu, and Yunsung Lee"
-    venue: "Under Review"
+    venue: "International Conference on Learning Representations (ICLR), 2026"
+    year: "2026"
     website: "https://worv-ai.github.io/d2e/"
     arxiv: "https://arxiv.org/abs/2510.05684"
     code: "https://github.com/worv-ai/D2E"
-    thumbnail : "/assets/publications/d2e_ur/d2e_thumbnail.png"
+    thumbnail : "/assets/publications/d2e_iclr2026/d2e_thumbnail.png"
   
-  - title: "[W6] VILLAIN at AVerImaTeC: Verifying Image-Text Claims via Multi-Agent Collaboration"
+  - title: "[W7] VILLAIN at AVerImaTeC: Verifying Image-Text Claims via Multi-Agent Collaboration"
     authors: "<b><u>Jaeyoon Jung*</u></b>, Yejun Yoon*, Seunghyun Yoon, Kunwoo Park"
     venue: "Nineth Workshop on Fact Extraction and VERification (FEVER) at EACL, 2026, <b><span style='color:red;'>(Oral)</span></b>"
-    year: "2026"
     thumbnail : "/assets/publications/villain_fever2026/villain_thumbnail.jpg"
     code: "https://github.com/ssu-humane/VILLAIN"
 
