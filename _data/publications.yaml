@@ -25,7 +25,7 @@ papers:
   
   - title: "[W7] VILLAIN at AVerImaTeC: Verifying Image-Text Claims via Multi-Agent Collaboration"
     authors: "<b><u>Jaeyoon Jung*</u></b>, Yejun Yoon*, Seunghyun Yoon, Kunwoo Park"
-    venue: "Nineth Workshop on Fact Extraction and VERification (FEVER) at EACL, 2026, <b><span style='color:red;'>(Oral)</span></b>"
+    venue: "Ninth Workshop on Fact Extraction and VERification (FEVER) at EACL, 2026, <b><span style='color:red;'>(Oral)</span></b>"
     thumbnail : "/assets/publications/villain_fever2026/villain_thumbnail.jpg"
     code: "https://github.com/ssu-humane/VILLAIN"
 
