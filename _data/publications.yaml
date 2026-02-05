@@ -26,8 +26,9 @@ papers:
   - title: "[W7] VILLAIN at AVerImaTeC: Verifying Image-Text Claims via Multi-Agent Collaboration"
     authors: "<b><u>Jaeyoon Jung*</u></b>, Yejun Yoon*, Seunghyun Yoon, Kunwoo Park"
     venue: "Ninth Workshop on Fact Extraction and VERification (FEVER) at EACL, 2026, <b><span style='color:red;'>(Oral)</span></b>"
-    thumbnail : "/assets/publications/villain_fever2026/villain_thumbnail.jpg"
+    arxiv: "https://arxiv.org/abs/2602.04587"
     code: "https://github.com/ssu-humane/VILLAIN"
+    thumbnail : "/assets/publications/villain_fever2026/villain_thumbnail.jpg"
 
   - title: "[C4] Exploring Fine-Tuning of Large Audio Language Models for Spoken Language Understanding under Limited Speech Data"
     authors: "Youngwon Choi, <b><u>Jaeyoon Jung</u></b>, Hyeonyu Kim, Huu-Kim Nguyen, Hwayeon Kim"
