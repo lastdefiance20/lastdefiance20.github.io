@@ -1,4 +1,11 @@
 awards:
+  - place: "Department of Artificial Intelligence, Soongsil University"
+    time: "December 2025"
+    title: "Best Thesis Award"
+    subtitle: "For paper 'Is a Picture Worth a Thousand Words? Agentic Multimodal Fact-Checking for Adaptive Use of Visual Evidence'"
+    category: "award"
+    selected: "y"
+
   - place: "AVerImaTeC shared task hosted by the ninth FEVER workshop at EACL 2026"
     time: "December 2025"
     title: "1st Place"
@@ -31,6 +38,13 @@ awards:
     selected: "y"
     code: "https://github.com/ssu-humane/HerO2"
 
+  - place: "NeurIPS 2024 - Open World Agent Workshop"
+    time: "December 2024"
+    title: "Outstanding Paper Award"
+    subtitle: "For paper 'CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction'"
+    category: "award"
+    selected: "y"
+
   - place: "AVeriTeC shared task hosted by the seventh FEVER workshop at EMNLP 2024"
     time: "August 2024"
     title: "2nd Place"
@@ -44,20 +58,6 @@ awards:
     title: "2nd Place"
     subtitle: "Task 6: Automated Audio Captioning, and Task 8: Language-Based Audio Retrieval"
     category: "challenge"
-    selected: "y"
-
-  - place: "Department of Artificial Intelligence, Soongsil University"
-    time: "December 2025"
-    title: "Best Thesis Award"
-    subtitle: "For paper 'Is a Picture Worth a Thousand Words? Agentic Multimodal Fact-Checking for Adaptive Use of Visual Evidence'"
-    category: "award"
-    selected: "y"
-
-  - place: "NeurIPS 2024 - Open World Agent Workshop"
-    time: "December 2024"
-    title: "Outstanding Paper Award"
-    subtitle: "For paper 'CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction'"
-    category: "award"
     selected: "y"
 
   - place: "SWUniv AI Challenge"
