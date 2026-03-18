@@ -1,8 +1,23 @@
 papers:
+  - title: "[P4] The PokeAgent Challenge: Competitive and Long-Context Learning at Scale"
+    authors: "Seth Karten, Jake Grigsby, Tersoo Upaa Jr, Junik Bae, Seonghun Hong, Hyunyoung Jeong, <b><u>Jaeyoon Jung</u></b>, Kun Kerdthaisong, Gyungbo Kim, Hyeokgi Kim, Yujin Kim, Eunju Kwon, Dongyu Liu, Patrick Mariglia, Sangyeon Park, Benedikt Schink, Xianwei Shi, Anthony Sistilli, Joseph Twin, Arian Urdu, Matin Urdu, Qiao Wang, Ling Wu, Wenli Zhang, Kunsheng Zhou, Stephanie Milani, Kiran Vodrahalli, Amy Zhang, Fei Fang, Yuke Zhu, Chi Jin"
+    venue: "NeurIPS 2025 Competition Report"
+    year: "Preprint"
+    arxiv: "https://arxiv.org/abs/2603.15563"
+    website: "https://pokeagent.github.io/"
+    thumbnail: "/assets/publications/pokeagent_pr/pokeagent_thumbnail.png"
+
+  - title: "[P3] WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation"
+    authors: "Jisu Nam, Yicong Hong, Chun-Hao Paul Huang, Feng Liu, JoungBin Lee, Jiyoung Kim, Siyoon Jin, Yunsung Lee, <b><u>Jaeyoon Jung</u></b>, Suhwan Choi, Seungryong Kim, Yang Zhou"
+    venue: "Under Review"
+    arxiv: "https://arxiv.org/abs/2603.16871"
+    website: "https://cvlab-kaist.github.io/WorldCam/"
+    code: "https://github.com/cvlab-kaist/WorldCam"
+    thumbnail: "/assets/publications/worldcam_ur/worldcam_thumbnail.png"
+
   - title: "[P2] CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents"
     authors: "Haebin Seong, Sungmin Kim, Minchan Kim, Yongjun Cho, Myunchul Joe, Suhwan Choi, <b><u>Jaeyoon Jung</u></b>, Jiyong Youn, Yoonshik Kim, Samwoo Seong, Yubeen Park, Youngjae Yu, Yunsung Lee"
     venue: "Under Review"
-    year: "Preprint"
     thumbnail : "/assets/publications/costnav_ur/costnav_thumbnail.png"
     website: "https://worv-ai.github.io/costnav/"
     arxiv: "https://arxiv.org/abs/2511.20216"
@@ -14,7 +29,7 @@ papers:
     venue2: "Workshop on Human-Centric AI at CIKM, 2025"
     thumbnail : "/assets/publications/amufc_ur/amufc_thumbnail.jpg"
 
-  - title: "[C5] Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI"
+  - title: "[C5] D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI"
     authors: "Suhwan Choi*, <b><u>Jaeyoon Jung*</u></b>, Haebin Seong*, Minchan Kim, Minyeong Kim, Yongjun Cho, Yoonshik Kim, Park Yu Been, Youngjae Yu, and Yunsung Lee"
     venue: "International Conference on Learning Representations (ICLR), 2026"
     year: "2026"
@@ -32,7 +47,7 @@ papers:
 
   - title: "[C4] Exploring Fine-Tuning of Large Audio Language Models for Spoken Language Understanding under Limited Speech Data"
     authors: "Youngwon Choi, <b><u>Jaeyoon Jung</u></b>, Hyeonyu Kim, Huu-Kim Nguyen, Hwayeon Kim"
-    venue: "IEEE/CVF International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026"
+    venue: "IEEE/CVF International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026, <b><span style='color:red;'>(Oral)</span></b>"
     arxiv: "https://arxiv.org/abs/2509.15389"
     thumbnail : "/assets/publications/finetuning_icassp2026/finetuning_thumbnail.png"
 
