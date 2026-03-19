@@ -1,5 +1,6 @@
 papers:
   - title: "[P4] The PokeAgent Challenge: Competitive and Long-Context Learning at Scale"
+    id: "P4"
     authors: "Seth Karten, Jake Grigsby, Tersoo Upaa Jr, Junik Bae, Seonghun Hong, Hyunyoung Jeong, <b><u>Jaeyoon Jung</u></b>, Kun Kerdthaisong, Gyungbo Kim, Hyeokgi Kim, Yujin Kim, Eunju Kwon, Dongyu Liu, Patrick Mariglia, Sangyeon Park, Benedikt Schink, Xianwei Shi, Anthony Sistilli, Joseph Twin, Arian Urdu, Matin Urdu, Qiao Wang, Ling Wu, Wenli Zhang, Kunsheng Zhou, Stephanie Milani, Kiran Vodrahalli, Amy Zhang, Fei Fang, Yuke Zhu, Chi Jin"
     venue: "NeurIPS 2025 Competition Report"
     year: "Preprint"
@@ -8,6 +9,7 @@ papers:
     thumbnail: "/assets/publications/pokeagent_pr/pokeagent_thumbnail.png"
 
   - title: "[P3] WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation"
+    id: "P3"
     authors: "Jisu Nam, Yicong Hong, Chun-Hao Paul Huang, Feng Liu, JoungBin Lee, Jiyoung Kim, Siyoon Jin, Yunsung Lee, <b><u>Jaeyoon Jung</u></b>, Suhwan Choi, Seungryong Kim, Yang Zhou"
     venue: "Under Review"
     arxiv: "https://arxiv.org/abs/2603.16871"
@@ -16,6 +18,7 @@ papers:
     thumbnail: "/assets/publications/worldcam_ur/worldcam_thumbnail.png"
 
   - title: "[P2] CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents"
+    id: "P2"
     authors: "Haebin Seong, Sungmin Kim, Minchan Kim, Yongjun Cho, Myunchul Joe, Suhwan Choi, <b><u>Jaeyoon Jung</u></b>, Jiyong Youn, Yoonshik Kim, Samwoo Seong, Yubeen Park, Youngjae Yu, Yunsung Lee"
     venue: "Under Review"
     thumbnail : "/assets/publications/costnav_ur/costnav_thumbnail.png"
@@ -24,12 +27,15 @@ papers:
     code: "https://github.com/worv-ai/CostNav"
 
   - title: "[P1][W6] Is a Picture Worth a Thousand Words? Agentic Multimodal Fact-Checking for Adaptive Use of Visual Evidence"
+    id: "P1"
+    id2: "W6"
     authors: "<b><u>Jaeyoon Jung</u></b>, Yejun Yoon, Kunwoo Park"
     venue: "Under Review"
     venue2: "Workshop on Human-Centric AI at CIKM, 2025"
     thumbnail : "/assets/publications/amufc_ur/amufc_thumbnail.jpg"
 
   - title: "[C5] D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI"
+    id: "C5"
     authors: "Suhwan Choi*, <b><u>Jaeyoon Jung*</u></b>, Haebin Seong*, Minchan Kim, Minyeong Kim, Yongjun Cho, Yoonshik Kim, Park Yu Been, Youngjae Yu, and Yunsung Lee"
     venue: "International Conference on Learning Representations (ICLR), 2026"
     year: "2026"
@@ -39,6 +45,7 @@ papers:
     thumbnail : "/assets/publications/d2e_iclr2026/d2e_thumbnail.png"
   
   - title: "[W7] VILLAIN at AVerImaTeC: Verifying Image-Text Claims via Multi-Agent Collaboration"
+    id: "W7"
     authors: "<b><u>Jaeyoon Jung*</u></b>, Yejun Yoon*, Seunghyun Yoon, Kunwoo Park"
     venue: "Ninth Workshop on Fact Extraction and VERification (FEVER) at EACL, 2026, <b><span style='color:red;'>(Oral)</span></b>"
     arxiv: "https://arxiv.org/abs/2602.04587"
@@ -46,12 +53,14 @@ papers:
     thumbnail : "/assets/publications/villain_fever2026/villain_thumbnail.jpg"
 
   - title: "[C4] Exploring Fine-Tuning of Large Audio Language Models for Spoken Language Understanding under Limited Speech Data"
+    id: "C4"
     authors: "Youngwon Choi, <b><u>Jaeyoon Jung</u></b>, Hyeonyu Kim, Huu-Kim Nguyen, Hwayeon Kim"
     venue: "IEEE/CVF International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026, <b><span style='color:red;'>(Oral)</span></b>"
     arxiv: "https://arxiv.org/abs/2509.15389"
     thumbnail : "/assets/publications/finetuning_icassp2026/finetuning_thumbnail.png"
 
   - title: "[W5] Team HUMANE at AVeriTeC 2025: HerO 2 for Efficient Fact Verification"
+    id: "W5"
     authors: "Yejun Yoon, <b><u>Jaeyoon Jung</u></b>, Seunghyun Yoon, Kunwoo Park"
     venue: "Eighth Workshop on Fact Extraction and VERification (FEVER) at ACL, 2025"
     arxiv: "https://arxiv.org/abs/2507.11004"
@@ -60,12 +69,14 @@ papers:
     thumbnail : "/assets/publications/hero2_fever2025/hero2_thumbnail.png"
 
   - title: "[C3] Hypothetical Documents or Knowledge Leakage? Rethinking LLM-based Query Expansion"
+    id: "C3"
     authors: "Yejun Yoon, <b><u>Jaeyoon Jung</u></b>, Seunghyun Yoon, Kunwoo Park"
     venue: "Findings of the Association for Computational Linguistics (ACL Findings), 2025"
     arxiv: "https://arxiv.org/abs/2504.14175"
     thumbnail : "/assets/publications/hypothetical_aclfindings2025/hypothetical_thumbnail.png"
 
   - title: "[W4] KOFFVQA: An Objectively Evaluated Free-form VQA Benchmark for Large Vision-Language Models in the Korean Language"
+    id: "W4"
     authors: "Yoonshik Kim*, <b><u>Jaeyoon Jung</u>*</b>"
     venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2025"
     website: "https://huggingface.co/spaces/maum-ai/KOFFVQA-Leaderboard"
@@ -75,6 +86,8 @@ papers:
     thumbnail : "/assets/publications/koffvqa_cvprw2025/koffvqa_thumbnail.png"
   
   - title: "[C2][W3] CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction"
+    id: "C2"
+    id2: "W3"
     authors: "Suhwan Choi*, Yongjun Cho*, Minchan Kim*, <b><u>Jaeyoon Jung</u>*</b>, Myunchul Joe, Yubeen Park, Minseo Kim, Sungwoong Kim, Sungjae Lee, Hwiseong Park, Jiwan Chung, Youngjae Yu"
     venue: "International Conference on Robotics and Automation (ICRA), 2025"
     venue2: "Workshop on Open-World Agents at NeurIPS, 2024, <b><span style='color:red;'>(Oral, Outstanding Paper Award (3/97 = 3.1%))</span></b>"
@@ -85,6 +98,7 @@ papers:
     thumbnail : "/assets/publications/canvas_icra2025/canvas_thumbnail.png"
 
   - title: "[W2] The Herd of Open LLMs for Verifying Real-World Claims"
+    id: "W2"
     authors: "Yejun Yoon*, <b><u>Jaeyoon Jung</u>*</b>, Seunghyun Yoon, Kunwoo Park"
     venue: "Seventh Workshop on Fact Extraction and VERification (FEVER) at EMNLP, 2024, <b><span style='color:red;'>(Oral)</span></b>"
     arxiv: "https://arxiv.org/abs/2410.12377"
@@ -93,12 +107,14 @@ papers:
     thumbnail : "/assets/publications/hero_fever2024/hero_thumbnail.png"
 
   - title: "[W1] EnCLAP++: Analyzing the EnCLAP Framework for Optimizing Automated Audio Captioning Performance"
+    id: "W1"
     authors: "Jaeyeon Kim, Minjeon Jeon, <b><u>Jaeyoon Jung</u></b>, Sang Hoon Woo, Jinjoo Lee"
     venue: "Detection and Classification of Acoustic Scenes and Events (DCASE) Workshop, 2024"
     arxiv: "https://arxiv.org/abs/2409.01201"
     thumbnail : "/assets/publications/enclap_dcase2024/enclap_thumbnail.png"
 
   - title: "[C1] EnCLAP: Combining Neural Audio Codec and Audio-Text Joint Embedding for Automated Audio Captioning"
+    id: "C1"
     authors: "Jaeyeon Kim, <b><u>Jaeyoon Jung</u></b>, Jinjoo Lee, Sang Hoon Woo"
     venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024"
     arxiv: "https://arxiv.org/abs/2401.17690"

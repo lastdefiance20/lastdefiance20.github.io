@@ -7,12 +7,7 @@ title: Home
   <h4>About</h4>
   <p>
   Hi, I'm Jaeyoon Jung. I received my B.S. in Artificial Intelligence from <a href="https://ssu.ac.kr">Soongsil University</a> and work at <a href="https://maum-ai.github.io/">MAUM.AI</a> as a senior AI research scientist.
-  My research focuses on building intelligent agents that perceive, reason, and act across diverse modalities, centered on three interconnected themes:
-  <ul>
-    <li><b>Embodied and interactive AI</b> — developing end-to-end vision-language-action models for navigation and interaction in physical and digital worlds, including interactive 3D world generation, with deployments in agricultural robots and desktop environments</li>
-    <li><b>Automated fact-checking</b> — designing agentic pipelines with large language and vision-language models for real-world claim verification in text-only and multimodal settings, achieving 1st place in FEVER AVerImaTeC (2026) and 2nd place in AVeriTeC (2024 &amp; 2025)</li>
-    <li><b>Multimodal understanding and cross-lingual transfer</b> — spanning audio-text joint embedding (2nd at DCASE 2024), spoken language understanding, and Korean vision-language model evaluation</li>
-  </ul>
+  My research focuses on building intelligent agents that perceive, reason, and act across diverse modalities, with interests in embodied AI, automated fact-checking, and multimodal understanding.
   </p> 
 </div>
 
@@ -26,7 +21,8 @@ title: Home
   <div class="tab-content">
     <div class="tab-pane active">
       {% for paper in site.data.publications.papers %}
-        <div class="paper">
+        <div class="paper" {% if paper.id %}id="{{ paper.id }}"{% endif %}>
+          {% if paper.id2 %}<a id="{{ paper.id2 }}"></a>{% endif %}
           {% if paper.year %}
             <p><h5>{{ paper.year }}</h5><hr /></p>
           {% endif %}

@@ -9,13 +9,13 @@ experiences:
 - place: "HUMANE LAB @ SSU AI"
   time: "June 2024 - Feb. 2026"
   title: "Research Student (Advised by Prof. <a href='https://bywords.github.io/'>Kunwoo Park</a>)"
-  subtitle: "Work for building automated fact-checking for both using only text and multi-modal"
+  subtitle: "Worked on automated fact-checking agent for both text-only<a href='#W2'>[W2]</a><a href='#W5'>[W5]</a> and multimodal settings<a href='#P1'>[P1]</a><a href='#W7'>[W7]</a>."
   category: "school"
 
 - place: "MAUM.AI"
   time: "Apr. 2023 - Nov. 2024"
   title: "AI Research Scientist"
-  subtitle: "Worked on transferring instruction-following capabilities from English to Korean in open-source large language models. This work aims to facilitate the development of high-quality Korean language models at a low cost."
+  subtitle: "Contributed to vision-language action models in team WoRV, enabling commonsense reasoning-based VLA navigation using only visual perception<a href='#C2'>[C2]</a>, and deployed in agricultural robots.<br>Led the development of a Korean VLM and a comprehensive benchmark framework for evaluating Korean VLMs<a href='#W4'>[W4]</a>.<br>Worked on transferring instruction-following capabilities from English to Korean in open-source large language models."
   category: "work"
 
 - place: "Soongsil University"
