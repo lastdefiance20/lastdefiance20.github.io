@@ -16,7 +16,7 @@ papers:
     venue2: "NeurIPS 2025 Competition Report"
     arxiv: "https://arxiv.org/abs/2603.15563"
     website: "https://pokeagent.github.io/"
-    thumbnail: "/assets/publications/pokeagent_pr/pokeagent_thumbnail.png"
+    thumbnail: "/assets/publications/pokeagent_pr/pokeagent_thumbnail2.png"
 
   - title: "[P3][W9] WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation"
     id: "P3"
