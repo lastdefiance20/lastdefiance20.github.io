@@ -36,6 +36,7 @@ papers:
     venue: "Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing (AACL-IJCNLP Main), 2026"
     venue2: "Workshop on Human-Centric AI at CIKM, 2025"
     year: "2026"
+    arxiv: "https://arxiv.org/abs/2604.04692"
     thumbnail : "/assets/publications/amufc_aacl2026/amufc_thumbnail.jpg"
 
   - title: "[C6][W8] CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents"
