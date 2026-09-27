@@ -3,7 +3,7 @@ experiences:
 - place: "MAUM.AI"
   time: "Dec. 2024 - now"
   title: "Senior AI Research Scientist"
-  subtitle: "Working on <a href='https://recruitment.worv.maum.ai'>WoRV</a> team to build a End-to-End Vision-Language Action model to drive or act like human.<br>Collaborating with <a href='https://pi.snu.ac.kr/'>SNU PI Lab</a>, led by Prof. <a href='https://yj-yu.github.io/home/'>Youngjae Yu</a>."
+  subtitle: "Working on <a href='https://recruitment.worv.maum.ai'>WoRV</a> team to build a End-to-End Vision-Language Action model to drive or act like human<a href='#C5'>[C5]</a><a href='#C6'>[C6]</a><a href='#P1'>[P1]</a><a href='#P2'>[P2]</a>.<br>Collaborating with <a href='https://pi.snu.ac.kr/'>SNU PI Lab</a>, led by Prof. <a href='https://yj-yu.github.io/home/'>Youngjae Yu</a>."
   category: "work"
 
 - place: "HUMANE LAB @ SSU AI"
@@ -15,7 +15,7 @@ experiences:
 - place: "MAUM.AI"
   time: "Apr. 2023 - Nov. 2024"
   title: "AI Research Scientist"
-  subtitle: "Contributed to vision-language action models in team WoRV, enabling commonsense reasoning-based VLA navigation using only visual perception<a href='#C2'>[C2]</a>, and deployed in agricultural robots.<br>Led the development of a Korean VLM and a comprehensive benchmark framework for evaluating Korean VLMs<a href='#W4'>[W4]</a>.<br>Worked on transferring instruction-following capabilities from English to Korean in open-source large language models."
+  subtitle: "Contributed to vision-language action models in team WoRV, enabling commonsense reasoning-based VLA navigation using only visual perception<a href='#C2'>[C2]</a><a href='#W3'>[W3]</a>, and deployed in agricultural robots.<br>Led the development of a Korean VLM and a comprehensive benchmark framework for evaluating Korean VLMs<a href='#W4'>[W4]</a>.<br>Worked on transferring instruction-following capabilities from English to Korean in open-source large language models."
   category: "work"
 
 - place: "Soongsil University"
