@@ -4,7 +4,7 @@ papers:
     id2: "W10"
     authors: "Suhwan Choi*, <b><u>Jaeyoon Jung*</u></b>, Sungkyung Kim, Yunsung Lee, Youngjae Yu"
     venue: "Under Review"
-    venue2: "Robot Learning Workshop (WRL) at NeurIPS, 2026"
+    venue2: "Eighth Robot Learning Workshop (WRL) at NeurIPS, 2026"
     year: "Preprint"
     website: "https://worv-ai.github.io/ponderpounce/"
     arxiv: "https://arxiv.org/abs/2608.24115"
