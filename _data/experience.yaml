@@ -3,19 +3,28 @@ experiences:
 - place: "MAUM.AI"
   time: "Dec. 2024 - now"
   title: "Senior AI Research Scientist"
-  subtitle: "Working on <a href='https://recruitment.worv.maum.ai'>WoRV</a> team to build a End-to-End Vision-Language Action model to drive or act like human<a href='#C5'>[C5]</a><a href='#C6'>[C6]</a><a href='#P1'>[P1]</a><a href='#P2'>[P2]</a>.<br>Collaborating with <a href='https://pi.snu.ac.kr/'>SNU PI Lab</a>, led by Prof. <a href='https://yj-yu.github.io/home/'>Youngjae Yu</a>."
+  details:
+    - "Working on the <a href='https://recruitment.worv.maum.ai'>WoRV</a> team to build an End-to-End Vision-Language Action model to drive or act like humans<a href='#C5'>[C5]</a><a href='#C6'>[C6]</a><a href='#P1'>[P1]</a><a href='#P2'>[P2]</a>, collaborating with <a href='https://pi.snu.ac.kr/'>SNU PI Lab</a>, led by Prof. <a href='https://yj-yu.github.io/home/'>Youngjae Yu</a>."
+    - "Developing and deploying VLA models for real-world industrial applications, including agricultural robotics (GINT), autonomous loaders (Doosan Bobcat), and robotic welding (Hanwha Ocean)."
+    - "Co-leading an IITP-funded national R&amp;D project to develop a world foundation model for training and deploying Physical AI systems (MSIT; RS-2026-25522885)."
+    - "Built surveillance VLMs for real-time video anomaly detection on edge devices such as Jetson NX and Hailo-10H."
   category: "work"
 
 - place: "HUMANE LAB @ SSU AI"
   time: "June 2024 - Feb. 2026"
   title: "Research Student (Advised by Prof. <a href='https://bywords.github.io/'>Kunwoo Park</a>)"
-  subtitle: "Worked on automated fact-checking agent for both text-only<a href='#W2'>[W2]</a><a href='#W5'>[W5]</a> and multimodal settings<a href='#C7'>[C7]</a><a href='#W6'>[W6]</a><a href='#W7'>[W7]</a>."
+  details:
+    - "Worked on automated fact-checking agents in both text-only<a href='#W2'>[W2]</a><a href='#W5'>[W5]</a> and multimodal settings<a href='#C7'>[C7]</a><a href='#W6'>[W6]</a><a href='#W7'>[W7]</a>."
   category: "school"
 
 - place: "MAUM.AI"
   time: "Apr. 2023 - Nov. 2024"
   title: "AI Research Scientist"
-  subtitle: "Contributed to vision-language action models in team WoRV, enabling commonsense reasoning-based VLA navigation using only visual perception<a href='#C2'>[C2]</a><a href='#W3'>[W3]</a>, and deployed in agricultural robots.<br>Led the development of a Korean VLM and a comprehensive benchmark framework for evaluating Korean VLMs<a href='#W4'>[W4]</a>.<br>Worked on transferring instruction-following capabilities from English to Korean in open-source large language models."
+  details:
+    - "Contributed to vision-language action models on the WoRV team, enabling commonsense reasoning-based VLA navigation using only visual perception<a href='#C2'>[C2]</a><a href='#W3'>[W3]</a>, and deployed them in agricultural robots."
+    - "Led the development of a Korean VLM and a comprehensive benchmark framework for evaluating Korean VLMs<a href='#W4'>[W4]</a>."
+    - "Worked on transferring instruction-following capabilities from English to Korean in open-source large language models."
+    - "Experienced with training large language models (up to 70B), using DeepSpeed for multi-node training."
   category: "work"
 
 - place: "Soongsil University"

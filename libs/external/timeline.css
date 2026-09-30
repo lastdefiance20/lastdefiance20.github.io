@@ -165,6 +165,20 @@
   margin: 1em 0 0 0.75em;
 }
 
+.timeline-details {
+  margin: 0.65em 0 0;
+  padding-left: 1.25em;
+  text-align: left;
+}
+
+.timeline-details li {
+  padding: 0 0 0.45em;
+}
+
+.timeline-details li:last-child {
+  padding-bottom: 0;
+}
+
 /* ================ Timeline Media Queries ================ */
 
 @media screen and (max-width: 1000px) {
